@@ -1,6 +1,6 @@
-# DSA-PROJECT
-MINI PROJECT, 
-CS 201, 
-Data Structures, 
+National Institute of Technology Silchar,
 Department of Computer Science and Engineering, 
-National Institute of Technology Silchar.
+Data Structures, 
+CS 201, 
+MINI PROJECT.
+
