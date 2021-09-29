@@ -1,5 +1,10 @@
-//Write an efficient code to find nth Fibonacci number
+//MINI-PROJECT, 
+//CS 201, 
+//Data Structures, 
+//Department of Computer Science and Engineering, 
+//National Institute of Technology Silchar
 
+//Write an efficient code to find nth Fibonacci number
 #include <stdio.h>
 #define Max 5000
 
